@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Bauer
+comment0.text=\r\n\ Klasse\ Bauer\ soll\ von\ Klasse\ Figur\ als\ Unterklasse\ erben.\r\n\ Die\ Klasse\ Bauer\ sollte,\ wenn\ moeglich\ die\ Standardregeln\ (auf\ Startlinie\ 2\ vorwaerts,\ auf\ normalem\ Feld\ eins\ vorwaerts)\ einhalten.\r\n
+comment1.params=xStart\ yStart
+comment1.target=Bauer(int,\ int)
+numComments=2

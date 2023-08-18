@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Figuren
+comment0.text=\r\n\ Platz\ f\u00FCr\ Kommentare,\ wohin\ auch\ immer\ man\ sieht...\r\n\ \r\n\r\n\r\n
+comment1.params=xStart\ yStart
+comment1.target=Figuren(int,\ int)
+comment2.params=
+comment2.target=void\ loescheAlle()
+comment3.params=elementAlt
+comment3.target=void\ entferne(Figuren)
+comment4.params=zeit
+comment4.target=void\ bewege(int)
+comment5.params=neuesX\ neuesY
+comment5.target=void\ setzePosition(int,\ int)
+numComments=6
