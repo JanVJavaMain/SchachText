@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Uhr
+comment1.params=stunden\ minuten\ sekunden
+comment1.target=Uhr(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ wieVielZeitUebrig()
+comment3.params=
+comment3.target=boolean\ zeitAbgelaufen()
+comment4.params=
+comment4.target=void\ zeitLaeuft()
+numComments=5
